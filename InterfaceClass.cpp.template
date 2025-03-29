@@ -4,7 +4,7 @@
 
 %ADDITIONAL_INCLUDE_DIRECTIVES%
 
-#include UE_INLINE_GENERATED_CPP_BY_NAME(%PREFIXED_CLASS_NAME%)
+#include UE_INLINE_GENERATED_CPP_BY_NAME(%UNPREFIXED_CLASS_NAME%)
 
 
 // Add default functionality here for any I%UNPREFIXED_CLASS_NAME% functions that are not pure virtual.
